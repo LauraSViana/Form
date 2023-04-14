@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+}
+
+body {
+  background-color: #84bdd3;
+}
+#formbox {
+  background-color: #fdfdfd;
+  max-width: 300px;
+  margin: 100px auto;
+  border-right: 2px #636363;
+  box-shadow: 1px 0 0px 1px #706e6e;
+  border-radius: 10px;
+}
+input {
+  display: block;
+  text-align: center;
+}
+label {
+  display: inline-block;
+}
+.label {
+  padding-left: 8%;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  color: #706e6e;
+}
+
+.input {
+  margin: 0 auto;
+  padding-left: 65px;
+  padding-right: 65px;
+  border-radius: 5px #c3c0c0;
+}
+
+.btn {
+  padding-left: 18%;
+  padding-bottom: 35px;
+  padding-top: 25px;
+}
+
+#Sobrenome {
+  padding-left: 8%;
+  padding-bottom: 10px;
+  padding-top: 15px;
+}
+
+.botao {
+  outline-style: none;
+  margin-top: 15px;
+  padding-left: 80px;
+  padding-right: 85px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px;
+  box-shadow: 1px 1px 1px 1px #636363;
+  background-color: #fff;
+}
+.registro {
+  font-size: 25px;
+  padding-left: 30%;
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+
+#btn {
+  margin-left: 253px;
+  margin-top: -20px;
+  height: 15px;
+}
